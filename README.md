@@ -4,7 +4,7 @@
 - 💞️ I’m looking to build Start-ups.
 - 📫 How to reach me e-Mail: faris@althibani.org
 
-JAZZ
+- 🎵 JAZZ
 
 <!---
 Faris-Thibani/Faris-Thibani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
